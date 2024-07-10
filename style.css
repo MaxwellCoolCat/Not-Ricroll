@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(122, 114, 114, 0.795);
+}
+
+img{
+    width: 500px;
+    border-radius: 50%;
+}
+
+,header{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sguare{
+    background-color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 100vh;
+    margin-top: 60px;
+    position: fixed;
+    z-index: -1;
+}
